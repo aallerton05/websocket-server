@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "start": "node index.js"
-=======
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> f2789b0ce4d16f9284b7b97911864a70b70b98c0
   },
   "keywords": [],
   "author": "",
